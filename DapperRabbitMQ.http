@@ -1,0 +1,6 @@
+@DapperRabbitMQ_HostAddress = http://localhost:5111
+
+GET {{DapperRabbitMQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
